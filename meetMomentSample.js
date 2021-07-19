@@ -1,0 +1,1 @@
+'The meet will be '+moment().add(0,'days').calendar() + '-'+moment().format('DD/MM/YYY') 
